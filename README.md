@@ -9,7 +9,7 @@ Welcome to my Kaggle Projects Portfolio! This repository contains a showcase of 
 2. [Projects](#projects)
     - [Project 1:Forecasting Sticker Sales](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)
     - [Project 2: Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster"](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)
-    - 
+    - [Project 3:Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data)
 3. [Skills Demonstrated](#skills-demonstrated)
 4. [How to Use](#how-to-use)
 5. [Contact](#contact)
