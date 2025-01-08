@@ -54,6 +54,15 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 **Link:** https://www.kaggle.com/competitions/titanic/overview
 
+### Project 3: **[Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data)**
+
+**Objective:**  The task is to use binary classification to predict a patient's smoking status given information about various other health indicators. Good luck!
+
+**Description:**
+The dataset for this competition (both train and test) was generated from a deep learning model trained on the Smoker Status Prediction using Bio-Signals dataset.
+
+**Link:** https://www.kaggle.com/competitions/interested-in-bio-signals/data
+
 ## 📊 Skills Demonstrated
 
 - Data Wrangling
