@@ -1,6 +1,6 @@
 # Data Science Projects Portfolio
 
-Hello, I am Arshad Raid, welcome to my Data Science Portfolio! This repository contains a showcase of my data analysis, machine learning, and deep learning projects from Kaggle competitions and datasets.
+Hello, I am Arshad Rafid, welcome to my Data Science Portfolio! This repository contains a showcase of my data analysis, machine learning, and deep learning projects from Kaggle competitions and datasets.
 
 ---
 
