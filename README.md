@@ -32,11 +32,22 @@ I aim to showcase my technical expertise and the insights I derived from these d
 
 ### Project 1: **[Forecasting Sticker Sales](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)**
 
+**Objective:**  The objective of this challenge is to forecast sticker sales in different countries.
 
+**Description:**
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
-### Project 2: **[Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster](#https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)**
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
 
-**Objective:**  Using machine learning to create a model that predicts which passengers survived the Titanic shipwreck..
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+**Link:** https://www.kaggle.com/competitions/playground-series-s5e1
+
+### Project 2: **[Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)**
+
+**Objective:**  Using machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
 **Description:**
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
