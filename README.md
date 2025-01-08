@@ -1,4 +1,4 @@
-# Kaggle Projects Portfolio
+# Data Science Projects Portfolio
 
 Welcome to my Kaggle Projects Portfolio! This repository contains a showcase of my data analysis, machine learning, and deep learning projects from Kaggle competitions and datasets.
 
