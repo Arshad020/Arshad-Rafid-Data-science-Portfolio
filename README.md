@@ -1,6 +1,6 @@
 # Data Science Projects Portfolio
 
-Welcome to my Kaggle Projects Portfolio! This repository contains a showcase of my data analysis, machine learning, and deep learning projects from Kaggle competitions and datasets.
+Hello, I am Arshad Raid, welcome to my Data Science Portfolio! This repository contains a showcase of my data analysis, machine learning, and deep learning projects from Kaggle competitions and datasets.
 
 ---
 
@@ -9,10 +9,10 @@ Welcome to my Kaggle Projects Portfolio! This repository contains a showcase of 
 2. [Projects](#projects)
     - [Project 1:Forecasting Sticker Sales(Time series data) with XGboost optimized with Optuna for better accuracy](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)
     - [Project 2: Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster"](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)
-    - [Project 3:Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data)
+    - [Project 3:Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data
+    - [Project 4: Solving "House Prices - Advanced Regression Techniques" with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)
 3. [Skills Demonstrated](#skills-demonstrated)
-4. [How to Use](#how-to-use)
-5. [Contact](#contact)
+4. [Contact](#contact)
 
 ---
 
@@ -61,7 +61,17 @@ In this challenge, we ask you to build a predictive model that answers the quest
 **Description:**
 The dataset for this competition (both train and test) was generated from a deep learning model trained on the Smoker Status Prediction using Bio-Signals dataset.
 
-**Link:** https://www.kaggle.com/competitions/interested-in-bio-signals/data
+### Project 4: **[Solving "House Prices - Advanced Regression Techniques" with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)
+
+**Objective:**  The task is predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
+
+**Description:**
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+
+
+**Link:** https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 ## 📊 Skills Demonstrated
 
