@@ -30,11 +30,11 @@ I aim to showcase my technical expertise and the insights I derived from these d
 
 ## 🚀 Projects
 
-### Project 1: **[Kaggle Project Name](#)**
+### Project 1: **[Forecasting Sticker Sales](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)**
 
 
 
-### Project 2: **[Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster](#)**
+### Project 2: **[Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster](#https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)**
 
 **Objective:**  Using machine learning to create a model that predicts which passengers survived the Titanic shipwreck..
 
