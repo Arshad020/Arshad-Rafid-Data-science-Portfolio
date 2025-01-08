@@ -7,7 +7,7 @@ Hello, I am Arshad Raid, welcome to my Data Science Portfolio! This repository c
 ## 📂 Table of Contents
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-    - [Project 1:Forecasting Sticker Sales(Time series data) with XGboost optimized with Optuna for better accuracy](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)
+    - [Project 1:Forecasting Sticker Sales(Time series data) with XGboost, and optimized with Optuna for better accuracy](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)
     - [Project 2: Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster"](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)
     - [Project 3:Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data)
     - [Project 4: Solving "House Prices - Advanced Regression Techniques" with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)
@@ -30,7 +30,7 @@ I aim to showcase my technical expertise and the insights I derived from these d
 
 ## 🚀 Projects
 
-### Project 1: **[Forecasting Sticker Sales(Time series data) with XGboost optimized with Optuna for better accuracy](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)**
+### Project 1: **[Forecasting Sticker Sales(Time series data) with XGboost, and optimized with Optuna for better accuracy](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)**
 
 **Objective:**  The objective of this challenge is to forecast sticker sales in different countries.
 
