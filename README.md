@@ -9,7 +9,7 @@ Hello, I am Arshad Raid, welcome to my Data Science Portfolio! This repository c
 2. [Projects](#projects)
     - [Project 1:Forecasting Sticker Sales(Time series data) with XGboost optimized with Optuna for better accuracy](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)
     - [Project 2: Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster"](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)
-    - [Project 3:Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data
+    - [Project 3:Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data)
     - [Project 4: Solving "House Prices - Advanced Regression Techniques" with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)
 3. [Skills Demonstrated](#skills-demonstrated)
 4. [Contact](#contact)
@@ -61,7 +61,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 **Description:**
 The dataset for this competition (both train and test) was generated from a deep learning model trained on the Smoker Status Prediction using Bio-Signals dataset.
 
-### Project 4: **[Solving "House Prices - Advanced Regression Techniques" with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)
+### Project 4: **[Solving "House Prices - Advanced Regression Techniques" with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)**
 
 **Objective:**  The task is predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
 
