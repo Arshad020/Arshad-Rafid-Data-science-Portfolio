@@ -61,7 +61,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 **Description:**
 The dataset for this competition (both train and test) was generated from a deep learning model trained on the Smoker Status Prediction using Bio-Signals dataset.
 
-### Project 4: **[Solving "House Prices - Advanced Regression Techniques" with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)**
+### Project 4: **[Solving "House Prices - Advanced Regression Techniques" competition with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)**
 
 **Objective:**  The task is predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
 
