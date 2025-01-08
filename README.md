@@ -63,22 +63,6 @@ I aim to showcase my technical expertise and the insights I derived from these d
 - Model Evaluation & Tuning
 - Data Visualization
 
----
-
-## 💻 How to Use
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    ```
-2. Navigate to the project folder:
-    ```bash
-    cd kaggle-projects
-    ```
-3. Open the Jupyter Notebooks in your preferred IDE or environment.
-
----
-
 ## 📞 Contact
 
 If you have any questions or suggestions, feel free to reach out!
@@ -88,16 +72,3 @@ If you have any questions or suggestions, feel free to reach out!
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ---
-
-## 📸 Screenshots (Optional)
-
-Include screenshots or images from your notebooks or visualizations for added appeal.
-
----
-
-## 🏷️ Tags
-
-- Kaggle
-- Data Science
-- Machine Learning
-- Python
