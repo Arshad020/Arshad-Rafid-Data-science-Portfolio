@@ -7,7 +7,7 @@ Welcome to my Kaggle Projects Portfolio! This repository contains a showcase of 
 ## 📂 Table of Contents
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-    - [Project 1: Title](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)
+    - [Project 1:Forecasting Sticker Sales](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)
     - [Project 2: Title](#project-2-title)
     - More Projects...
 3. [Skills Demonstrated](#skills-demonstrated)
