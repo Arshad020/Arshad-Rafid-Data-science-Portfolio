@@ -8,8 +8,8 @@ Welcome to my Kaggle Projects Portfolio! This repository contains a showcase of 
 1. [Introduction](#introduction)
 2. [Projects](#projects)
     - [Project 1:Forecasting Sticker Sales](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Forecasting%20Sticker%20Sales)
-    - [Project 2: Title](#project-2-title)
-    - More Projects...
+    - [Project 2: Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster"](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)
+    - 
 3. [Skills Demonstrated](#skills-demonstrated)
 4. [How to Use](#how-to-use)
 5. [Contact](#contact)
@@ -32,27 +32,21 @@ I aim to showcase my technical expertise and the insights I derived from these d
 
 ### Project 1: **[Kaggle Project Name](#)**
 
-**Objective:** Briefly explain the goal of the project.
+
+
+### Project 2: **[Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster](#)**
+
+**Objective:**  Using machine learning to create a model that predicts which passengers survived the Titanic shipwreck..
 
 **Description:**
-- Type of Problem: Classification/Regression/Clustering, etc.
-- Tools & Libraries: Python, pandas, scikit-learn, etc.
-- Dataset: [Kaggle Dataset Link](https://www.kaggle.com/...)
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
-**Highlights:**
-- **Exploratory Data Analysis (EDA):** Identified key patterns and trends.
-- **Modeling:** Applied Random Forest, XGBoost, etc., achieving a score of `XX.XX`.
-- **Visualizations:** Insights from data were visualized using seaborn/matplotlib/Plotly.
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
 
-**Output:** [Notebook](link_to_notebook) | [Dashboard](link_to_dashboard)
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
----
+In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-### Project 2: **[Kaggle Project Name](#)**
-
-(Repeat above structure for each project.)
-
----
 
 ## 📊 Skills Demonstrated
 
