@@ -88,8 +88,6 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 If you have any questions or suggestions, feel free to reach out!
 
-- Email: your-email@example.com
-- Kaggle Profile: [Your Kaggle Profile](https://www.kaggle.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: arshad.rafid@gmail.com
 
 ---
