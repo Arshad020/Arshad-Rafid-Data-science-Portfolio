@@ -11,7 +11,7 @@ Hello, I am Arshad Rafid, welcome to my Data Science Portfolio! This repository 
     - [Project 2: Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster"](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)
     - [Project 3:Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data)
     - [Project 4: Solving "House Prices - Advanced Regression Techniques" with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)
-    -  Project 5: [CIDAUT AI Fake Scene Classification 2024 solved with Xception model](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/AI%20Fake%20Scene%20Classification)
+    -  [Project 5: CIDAUT AI Fake Scene Binary Classification 2024 solved with Xception model](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/AI%20Fake%20Scene%20Classification)
 3. [Skills Demonstrated](#skills-demonstrated)
 4. [Contact](#contact)
 
@@ -74,7 +74,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 
-### Project 5: **[CIDAUT AI Fake Scene Classification 2024 solved with Xception model](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/AI%20Fake%20Scene%20Classification)**
+### Project 5: **[CIDAUT AI Fake Scene Binary Classification 2024 solved with Xception model](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/AI%20Fake%20Scene%20Classification)**
 
 **Objective:**  Classify if an autonomous driving scene is real or fake
 
