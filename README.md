@@ -73,7 +73,27 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 
-**Link:** https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+### Project 5: **[CIDAUT AI Fake Scene Classification 2024 solved with Xception model](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/AI%20Fake%20Scene%20Classification)**
+
+**Objective:**  Classify if an autonomous driving scene is real or fake
+
+Given an image, provide the probability of it being real (1) or fake (0).
+
+**Description:**
+You need to train neural networks or use any algorithm to classify if an image of a driving scenario is real or fake.
+
+images are in RGB format compressed in JPEG format.
+labels indicate (1) real and (0) fake
+binary classification
+you can do your own train/validation split
+for the test images, you do not have access to the labels. See sample_submission.csv in the Data section
+code should be in Python
+you can use Tensorflow, Keras, PyTorch, etc.
+you can use public GitHub repositories and models
+you can use other publicly available datasets
+
+
+**Link/Data:** https://www.kaggle.com/competitions/cidaut-ai-fake-scene-classification-2024/overview
 
 ## 📊 Skills Demonstrated
 
