@@ -11,6 +11,7 @@ Hello, I am Arshad Rafid, welcome to my Data Science Portfolio! This repository 
     - [Project 2: Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster"](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)
     - [Project 3:Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data)
     - [Project 4: Solving "House Prices - Advanced Regression Techniques" with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)
+    -  Project 5: [CIDAUT AI Fake Scene Classification 2024 solved with Xception model](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/AI%20Fake%20Scene%20Classification)
 3. [Skills Demonstrated](#skills-demonstrated)
 4. [Contact](#contact)
 
