@@ -38,7 +38,7 @@ I aim to showcase my technical expertise and the insights I derived from these d
 **Description:**
 The goal of the Tabular Playground Series is to provide the Kaggle community with a variety of fairly light-weight challenges that can be used to learn and sharpen skills in different aspects of machine learning and data science. The duration of each competition will generally only last a few weeks, and may have longer or shorter durations depending on the challenge. The challenges will generally use fairly light-weight datasets that are synthetically generated from real-world data, and will provide an opportunity to quickly iterate through various model and feature engineering ideas, create visualizations, etc.
 
-**Link:** https://www.kaggle.com/competitions/playground-series-s5e1
+**Link/Data:** https://www.kaggle.com/competitions/playground-series-s5e1
 
 ### Project 2: **[Using Neural Network Classifier to solve "Titanic-Machine Learning from Disaster](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/NN_classifier_titanic)**
 
@@ -53,7 +53,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-**Link:** https://www.kaggle.com/competitions/titanic/overview
+**Link/Data:** https://www.kaggle.com/competitions/titanic/overview
 
 ### Project 3: **[Experimenting with K nearest neighbor and Principal Component Analysis to solve "Interested in Bio-Signals ⁉" challenge](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/Smoker%20status%20prediction%20using%20bio-signal%20data)**
 
@@ -62,7 +62,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 **Description:**
 The dataset for this competition (both train and test) was generated from a deep learning model trained on the Smoker Status Prediction using Bio-Signals dataset.
 
-**Link:** https://www.kaggle.com/competitions/interested-in-bio-signals/overview
+**Link/Data:** https://www.kaggle.com/competitions/interested-in-bio-signals/overview
 
 ### Project 4: **[Solving "House Prices - Advanced Regression Techniques" competition with XGboost](https://github.com/Arshad020/Arshad-Rafid-Data-science-Portfolio/tree/main/house-prices-advanced-regression-techniques)**
 
